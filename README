@@ -1,7 +1,1 @@
-ource program
---> Preprocess
---> Compile
---> Assemble
---> Link
---> Executable
-
+g++ -o lab1 lab1.c
